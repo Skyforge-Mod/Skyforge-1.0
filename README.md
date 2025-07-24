@@ -1,5 +1,3 @@
-# Skyforge-1.0
-Skyforge 1.0 on 1.8.9
 # SkyForge-1.0-for-1.8.9
 SkyForge 1.0 for 1.8.9
 # SkyForge Automation Mod
