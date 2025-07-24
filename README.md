@@ -2,7 +2,7 @@
 SkyForge 1.0 for 1.8.9
 # SkyForge Automation Mod
 
-> **Download:** You can install the mod by visiting the **Releases** section on the right → [Releases](../../tags)
+ **Download:** You can install the mod by visiting the **Releases** section on the right → [Releases](../../tags)
 
 SkyForge Automation Mod is a highly customizable and advanced automation enhancement designed for Minecraft Skyblock-style servers.  
 Unlike generic automation tools, SkyForge is intended specifically for **servers that officially permit automation**, making repetitive tasks easier and more efficient.
